@@ -1,2 +1,4 @@
-# NRO2526
-Napredna računalniška orodja
+Martin Papež
+
+23231091
+
