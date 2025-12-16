@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X1 Yoga\\Desktop\\NRO\\NRO\\DN3\\DN3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799CE7C8-67CB-4B08-93FB-366AB601F0E4}|DN3\\DN3.vcxproj|C:\\Users\\X1 Yoga\\Desktop\\NRO\\NRO\\DN3\\DN3\\DN3\\DN3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{799CE7C8-67CB-4B08-93FB-366AB601F0E4}|DN3\\DN3.vcxproj|solutionrelative:DN3\\DN3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DN3.cpp",
+              "DocumentMoniker": "C:\\Users\\X1 Yoga\\Desktop\\NRO\\NRO\\DN3\\DN3\\DN3\\DN3.cpp",
+              "RelativeDocumentMoniker": "DN3\\DN3.cpp",
+              "ToolTip": "C:\\Users\\X1 Yoga\\Desktop\\NRO\\NRO\\DN3\\DN3\\DN3\\DN3.cpp",
+              "RelativeToolTip": "DN3\\DN3.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T10:08:16.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
